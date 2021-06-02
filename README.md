@@ -16,8 +16,8 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - <a href="https://42bits.medium.com/porque-o-waterfall-n%C3%A3o-morreu-614433ef9ba4"> Porque o waterfall não morreu? </a>
-- [https://42bits.medium.com/o-modelo-da-pr%C3%B3xima-gera%C3%A7%C3%A3o-em-opera%C3%A7%C3%B5es-digitais-6f0a224323a1] (O modelo da próxima geração em operações digitais?)
-- [https://42bits.medium.com/as-dores-da-pessoa-desenvolvedora-s%C3%AAnior-599775134d1b] (As dores da pessoa desenvolvedora sênior)
+- <a href="https://42bits.medium.com/o-modelo-da-pr%C3%B3xima-gera%C3%A7%C3%A3o-em-opera%C3%A7%C3%B5es-digitais-6f0a224323a1"> O modelo da próxima geração em operações digitais </a>
+- <a href="https://42bits.medium.com/as-dores-da-pessoa-desenvolvedora-s%C3%AAnior-599775134d1b"> As dores da pessoa desenvolvedora sênior </a>
 <!-- BLOG-POST-LIST:END -->
 
 
