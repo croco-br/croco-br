@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Adriano Croco!</h1>
+<h1 align="center">Hi! I'm Adriano Croco.</h1>
 <h3 align="center">A Software Engineering Manager from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=croco-br&label=Profile%20views&color=0e75b6&style=flat" alt="croco-br" /> </p>
 
-- 🌱 I’m currently learning **Elixir**
+- 🌱 I’m currently learning **Elixir**,**Golang**
 
 - 👨‍💻 All of my projects are available at [https://github.com/croco-br](https://github.com/croco-br)
 
