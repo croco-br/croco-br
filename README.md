@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=croco-br&label=Profile%20views&color=0e75b6&style=flat" alt="croco-br" /> </p>
 
-- 🌱 I’m currently learning **Elixir** and **Golang**.
+- 🌱 I’m currently learning **Clojure**.
 
 - 👨‍💻 All of my projects are available at [https://github.com/croco-br](https://github.com/croco-br).
 
 - 📝 I regularly write articles [in portuguese] on [https://42bits.medium.com/](https://42bits.medium.com/).
 
-- 💬 Ask me about **C#, Back-end Development, Software Architecture and Elixir**.
+- 💬 Ask me about **C#, Back-end Development and Software Architecture.
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/adrianocroco/](https://www.linkedin.com/in/adrianocroco/).
 
